@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/Cryptonian/static/css/main.150c3546.css",
+    "main.js": "/Cryptonian/static/js/main.1f3e6903.js",
+    "static/js/787.7428ec8d.chunk.js": "/Cryptonian/static/js/787.7428ec8d.chunk.js",
+    "static/media/doge.png": "/Cryptonian/static/media/doge.a9424efadeaad7cd97e7.png",
+    "static/media/digitalArt.png": "/Cryptonian/static/media/digitalArt.38276b90876423c8fe6c.png",
+    "static/media/hex.png": "/Cryptonian/static/media/hex.c9cd2d62ff1931173c2b.png",
+    "static/media/etherem.png": "/Cryptonian/static/media/etherem.a85b6de0dc4a013ae2f8.png",
+    "static/media/shiba.png": "/Cryptonian/static/media/shiba.ab75a889709b539aa7da.png",
+    "static/media/solana.png": "/Cryptonian/static/media/solana.88dd9cd2498aebe1ee8c.png",
+    "static/media/tron-.png": "/Cryptonian/static/media/tron-.ab0b5d93562633abcc22.png",
+    "static/media/bitcoin-logo.png": "/Cryptonian/static/media/bitcoin-logo.82491fef997ab841639c.png",
+    "static/media/nano.png": "/Cryptonian/static/media/nano.e3682f39ed449bdc937d.png",
+    "static/media/chainlink.png": "/Cryptonian/static/media/chainlink.a36a2e78560b7adb1d33.png",
+    "static/media/polygon.png": "/Cryptonian/static/media/polygon.1140771b39c8269a6d1b.png",
+    "static/media/tether.png": "/Cryptonian/static/media/tether.c1d587669942a5e9bc47.png",
+    "static/media/ultra.png": "/Cryptonian/static/media/ultra.921939e366beb2cff22e.png",
+    "static/media/xrp.png": "/Cryptonian/static/media/xrp.a30ac2af14f2c3a5461a.png",
+    "static/media/request.png": "/Cryptonian/static/media/request.e9df68a8590a1e6a11b1.png",
+    "static/media/news-image.png": "/Cryptonian/static/media/news-image.874cb0fb50569c433445.png",
+    "index.html": "/Cryptonian/index.html",
+    "main.150c3546.css.map": "/Cryptonian/static/css/main.150c3546.css.map",
+    "main.1f3e6903.js.map": "/Cryptonian/static/js/main.1f3e6903.js.map",
+    "787.7428ec8d.chunk.js.map": "/Cryptonian/static/js/787.7428ec8d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.150c3546.css",
+    "static/js/main.1f3e6903.js"
+  ]
+}
